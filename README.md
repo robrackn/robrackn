@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robrackn
-- 👀 I’m interested in raspberry pi, rtl-sdr, hardware, breadboarding circuits, data visualization, programming
+- 👀 I’m interested in raspberry pi, rtl-sdr, hardware, breadboarding circuits, data visualization, antenna design, some programming, vibe coding, gardening, reloading, acoustics, AI, color management, color profiling, and liek 7 million other things.
 - 🌱 I’m currently learning more advanced uses of git so ignore most of my repositories.
 - 💞️ I’m not yet looking to collaborate on anything.
 
